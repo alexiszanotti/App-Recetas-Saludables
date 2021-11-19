@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/App-Recetas-Saludables%20/static/css/main.a37585f7.chunk.css",
+    "main.js": "/App-Recetas-Saludables%20/static/js/main.c2d9ed08.chunk.js",
+    "main.js.map": "/App-Recetas-Saludables%20/static/js/main.c2d9ed08.chunk.js.map",
+    "runtime-main.js": "/App-Recetas-Saludables%20/static/js/runtime-main.218e45bb.js",
+    "runtime-main.js.map": "/App-Recetas-Saludables%20/static/js/runtime-main.218e45bb.js.map",
+    "static/js/2.7d4836c0.chunk.js": "/App-Recetas-Saludables%20/static/js/2.7d4836c0.chunk.js",
+    "static/js/2.7d4836c0.chunk.js.map": "/App-Recetas-Saludables%20/static/js/2.7d4836c0.chunk.js.map",
+    "static/js/3.e476c013.chunk.js": "/App-Recetas-Saludables%20/static/js/3.e476c013.chunk.js",
+    "static/js/3.e476c013.chunk.js.map": "/App-Recetas-Saludables%20/static/js/3.e476c013.chunk.js.map",
+    "index.html": "/App-Recetas-Saludables%20/index.html",
+    "static/css/main.a37585f7.chunk.css.map": "/App-Recetas-Saludables%20/static/css/main.a37585f7.chunk.css.map",
+    "static/js/2.7d4836c0.chunk.js.LICENSE.txt": "/App-Recetas-Saludables%20/static/js/2.7d4836c0.chunk.js.LICENSE.txt",
+    "static/media/VideoLanding.9ea75a0a.mp4": "/App-Recetas-Saludables%20/static/media/VideoLanding.9ea75a0a.mp4",
+    "static/media/DetailsRecipe.css": "/App-Recetas-Saludables%20/static/media/alimentos.1b676820.jpg",
+    "static/media/CreateRecipe.css": "/App-Recetas-Saludables%20/static/media/imgfondo.9adfa27f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.218e45bb.js",
+    "static/js/2.7d4836c0.chunk.js",
+    "static/css/main.a37585f7.chunk.css",
+    "static/js/main.c2d9ed08.chunk.js"
+  ]
+}
